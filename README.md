@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # procurement-risk-predicton
 
@@ -60,3 +61,6 @@ Contributions to this project are welcome! If you have ideas for improvements or
 LinkedIn: kaushik-raghani
 
 Email: kaushikraghani23@gmail.com
+=======
+# procurement-risk-predicton
+>>>>>>> 0af49f13dbbc2b4ef88c10b5309d3708b813c1fb
